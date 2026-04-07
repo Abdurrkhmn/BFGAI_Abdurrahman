@@ -1,0 +1,24 @@
+%%writefile requirements.txt
+# Core Deep Learning
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
+
+# Hugging Face Diffusers & Transformers
+diffusers==0.21.4
+transformers==4.36.2
+accelerate==0.25.0
+
+# Streamlit UI
+streamlit==1.29.0
+streamlit-drawable-canvas==0.8.0
+
+# Ngrok untuk deployment
+pyngrok==6.0.0
+
+# Image Processing
+pillow==10.1.0
+numpy==1.24.3
+opencv-python==4.8.1.78
+matplotlib==3.7.2
+
