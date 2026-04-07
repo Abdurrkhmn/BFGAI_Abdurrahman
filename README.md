@@ -115,7 +115,7 @@ pip install -r requirements.txt
 
 ### 📸 Screenshot
 
-![Project Result](<img width="993" height="791" alt="image" src="https://github.com/user-attachments/assets/ddc5d44b-3944-4626-a4eb-431c4ab922ae" />)
+![Project Result](results.png)
 
 ---
 
