@@ -1,8 +1,7 @@
 # 🚀 BFGAI (Belajar Fundamental Generative AI)
 
 ## 👋 Introduction
-BFGAI (Belajar Fundamental Generative AI) is a learning program designed to help you understand and apply Generative AI in real-world scenarios.  
-This course will guide you from basic concepts to practical implementation, preparing you for future careers in AI.
+BFGAI (Belajar Fundamental Generative AI) is a learning program designed to help you understand and apply Generative AI in real-world scenarios. This course will guide you from basic concepts to practical implementation, preparing you for future careers in AI.
 
 ---
 
