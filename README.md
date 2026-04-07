@@ -1,3 +1,18 @@
+# 🚀 BFGAI (Belajar Fundamental Generative AI)
+
+## 👋 Introduction
+BFGAI (Belajar Fundamental Generative AI) is a learning program designed to help you understand and apply Generative AI in real-world scenarios.  
+This course will guide you from basic concepts to practical implementation, preparing you for future careers in AI.
+
+---
+
+## 📖 Description
+Generative AI is a branch of artificial intelligence that allows computers to create new content such as text, images, audio, and video from learned data.
+
+According to McKinsey, this technology can contribute up to **$4.4 trillion per year** to the global economy. It is already used in many fields, including learning systems like *study mode*, which can improve learning efficiency by more than **40%**.
+
+Because of this, learning Generative AI is an important skill for future innovation in many industries.
+
 ## 🎯 Learning Objectives
 
 After completing this course, students will be able to:
